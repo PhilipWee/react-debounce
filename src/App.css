@@ -1,0 +1,217 @@
+.component-main-component-main {
+  gap: 10px;
+  height: 100vh;
+  display: inline-flex;
+  box-sizing: border-box;
+  align-items: center;
+  padding-top: 126px;
+  padding-left: 151px;
+  padding-right: 151px;
+  flex-direction: column;
+  padding-bottom: 126px;
+  justify-content: center;
+  background-color: white;
+}
+.component-main-frame15081 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.component-main-debounced-function {
+  width: 205px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.component-main-debounced-function1 {
+  color: black;
+  font-size: 16px;
+  text-align: center;
+  font-family: Poppins;
+  line-height: 150%;
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+}
+.component-main-output-text {
+  color: black;
+  font-size: 16px;
+  text-align: center;
+  font-family: Poppins;
+  line-height: 150%;
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+}
+.component-main-network-calls {
+  color: black;
+  font-size: 16px;
+  text-align: center;
+  font-family: Poppins;
+  line-height: 150%;
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+}
+.component-main-debounced-execution-arrows {
+  width: 106px;
+  height: 24px;
+  position: relative;
+}
+.component-main-exec-func {
+  top: 0%;
+  left: 16.04%;
+  color: black;
+  right: 9.43%;
+  bottom: 0%;
+  display: inline;
+  position: absolute;
+  font-size: 16px;
+  text-align: center;
+  font-family: Poppins;
+  line-height: 150%;
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+}
+.component-main-frame15077 {
+  gap: 32px;
+  width: 580px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  display: flex;
+  box-sizing: border-box;
+  align-items: center;
+  padding-top: 27px;
+  padding-left: 25px;
+  border-radius: 24px;
+  padding-right: 25px;
+  flex-direction: column;
+  padding-bottom: 27px;
+  justify-content: flex-start;
+  background-color: rgba(55, 65, 81, 1);
+}
+.component-main-debounce-demonstrati {
+  color: rgba(255, 255, 240, 1);
+  font-size: 16px;
+  font-family: Poppins;
+  line-height: 150%;
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+}
+.component-main-frame15078 {
+  gap: 10px;
+  width: 100%;
+  display: flex;
+  box-sizing: border-box;
+  align-items: flex-start;
+  padding-top: 20px;
+  border-color: rgba(255, 255, 240, 1);
+  border-style: solid;
+  border-width: 1px;
+  padding-left: 17px;
+  border-radius: 4px;
+  padding-right: 17px;
+  padding-bottom: 20px;
+  justify-content: flex-start;
+}
+.component-main-insert-text-here {
+  flex: 1 1 0%;
+  color: rgba(255, 255, 240, 1);
+  font-size: 16px;
+  font-family: Poppins;
+  line-height: 150%;
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+  background: none;
+  border: none;
+}
+.component-main-insert-text-here:focus-visible {
+  border: none;
+  outline: none;
+}
+
+.component-main-normal-execution-arrows {
+  width: 106px;
+  height: 25px;
+  position: relative;
+}
+.component-main-exec-func1 {
+  top: 0%;
+  left: 13.21%;
+  color: black;
+  right: 12.26%;
+  bottom: 4%;
+  display: inline;
+  position: absolute;
+  font-size: 16px;
+  text-align: center;
+  font-family: Poppins;
+  line-height: 150%;
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+}
+.component-main-made-with-using-fi {
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+}
+.component-main-made-with-text0 {
+  color: black;
+  display: inline;
+  font-size: 16px;
+  font-family: Poppins;
+  line-height: 150%;
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+}
+.component-main-using-text1 {
+  color: black;
+  display: inline;
+  font-size: 16px;
+  font-family: Poppins;
+  line-height: 150%;
+  letter-spacing: 0.01em;
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+}
+.component-main-fire-jet-text2 {
+  color: rgba(240, 129, 87, 1);
+  display: inline;
+  font-size: 16px;
+  font-family: Poppins;
+  line-height: 150%;
+  letter-spacing: 0.01em;
+  text-decoration: underline;
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+}
+.debounced-function-normal-function {
+  width: 205px;
+  display: inline-flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.debounced-function-debounced-function {
+  color: black;
+  font-size: 16px;
+  text-align: center;
+  font-family: Poppins;
+  line-height: 150%;
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+}
+.debounced-function-output-text {
+  color: black;
+  font-size: 16px;
+  text-align: center;
+  font-family: Poppins;
+  line-height: 150%;
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+}
+.debounced-function-network-calls {
+  color: black;
+  font-size: 16px;
+  text-align: center;
+  font-family: Poppins;
+  line-height: 150%;
+  margin-block-end: 0px;
+  margin-block-start: 0px;
+}
